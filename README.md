@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Any Tech related stuff 
 - 📫 How to reach me: You can reach me on facebook @...
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... I used to be more productive when i'm with more productive people 
--->
+- ⚡ Fun fact: ... I used to be more productive when i'm with more productive people.
