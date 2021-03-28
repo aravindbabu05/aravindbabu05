@@ -1,9 +1,23 @@
 ### Hi I'm upputuri Aravind Babu 👋
 
 
-*
+<a href="https://www.linkedin.com/in/aravind-babu-857406183/">
+  <img align="left" alt="Aravind Babu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/aravindbabu05">
+  <img align="left" alt="Aravind Babu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/aravindbabu05">
+  <img align="left" alt="Aravind Babu's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/aravind_babu05">
+  <img align="left" alt="Aravind Babu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
+
+
 
 - 🔭 I’m currently working on RPA-Blue Prism  ...
 - 🌱 I’m currently learning Full Stack Developmen ...
