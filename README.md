@@ -27,5 +27,8 @@
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I used to be more productive when i'm with more productive people.
 
+<a href="https://github.com/aravindbabu05">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindbabu05&theme=light&hide_langs_below=1" />
+</a>
 
-<img src="https://github-readme-status.vercel.app/api?username=aravindbabu05&&show_icos=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+<img align="right" src="https://github-readme-status.vercel.app/api?username=aravindbabu05&&show_icos=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
