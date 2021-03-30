@@ -25,7 +25,8 @@
 - 📫 How to reach me: You can reach me on [Linkedin -@aravind](https://www.linkedin.com/in/aravind-babu-857406183/)
  ...
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... I used to be more productive when i'm with more productive people.
+- ⚡ Fun fact: ... I used to be more productive when i'm with productive people.
+- 😎 Life Principle: ... A Good thing exists with a condition.
 
 <a href="https://github.com/aravindbabu05">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindbabu05&theme=light&hide_langs_below=1" />
